@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # React Project: Math Magician
 
 This is a Math Magician website.
