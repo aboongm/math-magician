@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
-// eslint-disable-next-line react/prefer-stateless-function
 const Calculator = () => {
   const [obj, setObj] = useState({ next: null, total: null });
 
@@ -91,21 +90,24 @@ const Calculator = () => {
   const { total, next } = obj;
   return (
     <>
-      <section className="container p-5">
-        <div className="w-100 result">{next || total || 0}</div>
-        <section className="grid-container m-0 p-0">
-          {items.map((item, index) => (
-            <button
-              type="button"
-              key={item.id}
-              className={`grid-item item${index + 1}`}
-              onClick={handleClick}
-            >
-              {item.text}
-            </button>
-          ))}
+      <main className="row p-5">
+        <h3 className="col-4 text-white mb-3">Let&apos;s do some math!</h3>
+        <section className="col-8">
+          <div className="w-100 result">{next || total || 0}</div>
+          <section className="grid-container m-0 p-0">
+            {items.map((item, index) => (
+              <button
+                type="button"
+                key={item.id}
+                className={`grid-item item${index + 1}`}
+                onClick={handleClick}
+              >
+                {item.text}
+              </button>
+            ))}
+          </section>
         </section>
-      </section>
+      </main>
     </>
   );
 };

@@ -33,7 +33,7 @@ code {
 }
 
 #root {
-  background: linear-gradient(-45deg, black, transparent);
+  background: linear-gradient(245deg, black, transparent);
   height: 100vh;
 }
 
@@ -117,4 +117,32 @@ ul {
 .item17 {
   grid-column: 1 / span 2;
   grid-row: 5;
+}
+
+li a {
+  color: #3abaeb;
+}
+
+@media only screen and (max-width: 600px) {
+  .mobile {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+  }
+
+  .container {
+    max-width: 520px;
+    padding: 90px 16px 30px 16px !important;
+  }
+
+  .pad1 {
+    padding: 20px 0 0 0 !important;
+    order: 1 !important;
+  }
+
+  .col-4,
+  .col-8 {
+    width: 100% !important;
+  }
 }
