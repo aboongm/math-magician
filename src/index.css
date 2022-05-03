@@ -140,4 +140,9 @@ li a {
     padding: 20px 0 0 0 !important;
     order: 1 !important;
   }
+
+  .col-4,
+  .col-8 {
+    width: 100% !important;
+  }
 }

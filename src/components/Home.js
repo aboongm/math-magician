@@ -1,6 +1,6 @@
 const Home = () => (
   <>
-    <div className="text-white p-3">
+    <div className="text-white py-3 px-5">
       <h4 className="text-white">Home</h4>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex rerum, quam
