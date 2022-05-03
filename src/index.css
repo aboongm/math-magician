@@ -107,3 +107,22 @@ ul {
 li a {
   color: #3abaeb;
 }
+
+@media only screen and (max-width: 600px) {
+  .mobile {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+  }
+
+  .container {
+    max-width: 520px;
+    padding: 90px 16px 30px 16px !important;
+  }
+
+  .pad1 {
+    padding: 20px 0 0 0 !important;
+    order: 1 !important;
+  }
+}
