@@ -22,11 +22,11 @@ coming ...
 
 ## Live Demo
 
-[Heroku live](https://aboongm.github.io/math-magician/)
+[Github-page live](https://aboongm.github.io/math-magician/)
+
+<!-- [Heroku live](https://aboongm.github.io/math-magician/) -->
 
 [Netlify live](https://math-magician-aboong.netlify.app/)
-
-[Github-page live](https://aboongm.github.io/math-magician/)
 
 ### Prerequisites
 
