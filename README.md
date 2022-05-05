@@ -9,8 +9,7 @@ This is a Math Magician website.
 ![desktop](https://user-images.githubusercontent.com/49184579/166872209-504f5307-8620-4528-92df-dd9774c074b8.png)
 
 ## Mobile
-
-![mobile](https://user-images.githubusercontent.com/49184579/166872217-1ee9e5c3-f1c8-46f0-96bd-d0c90c6a3d9e.png)
+<img src="https://user-images.githubusercontent.com/49184579/166872217-1ee9e5c3-f1c8-46f0-96bd-d0c90c6a3d9e.png" width="277" height="600">
 
 ## Built With &hearts;
 
