@@ -2,7 +2,14 @@
   "name": "math-magician",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboongm/math-magician.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aboongm/math-magician/issues"
+  },
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/user-event": "^13.5.0",
