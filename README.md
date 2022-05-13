@@ -1,6 +1,8 @@
 # React Project: Math Magician
 
-This is a Math Magician website.
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote.
 
 # Screen Shots
 
@@ -47,7 +49,7 @@ to test or run the application double click on the `index.html` file to open in 
 
 - GitHub: _[@aboongm](https://github.com/aboongm)_
 - Twitter: _[@John_luang1](https://twitter.com/John_luang1)_
-- LinkedIn: _[LinkedIn](https://www.linkedin.com/in/mayengbam-ranjit-luwang-31962418/)_
+- LinkedIn: _[LinkedIn](https://www.linkedin.com/in/aboongm/)_
 
 ## 🤝 Contributing
 
