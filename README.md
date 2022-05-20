@@ -23,7 +23,11 @@
 
 ## Live Demo
 
-[Ckeckout The live Site here](https://aboongm.github.io/math-magician/)
+[Heroku live](https://math-magician-aboong1.herokuapp.com/)
+
+[Github-page live](https://aboongm.github.io/math-magician/)
+
+[Netlify live](https://math-magician-aboong.netlify.app/)
 
 ### Prerequisites
 
